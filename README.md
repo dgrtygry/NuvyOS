@@ -1,2 +1,1 @@
-# NuvyOS
-My first multi platform software!!!!
+# The Lives of the Oakland folks license.
